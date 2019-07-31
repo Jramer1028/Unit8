@@ -1,0 +1,17 @@
+DATA, INFORMATION AND KNOWLEDGE
+Relational Data
+  ia.
+    -Data, is the raw bits of information that has no context. Data can be numerical or descriptive.
+    -Information, is data, but with context, so we can understand what values or things we are being informed of
+    -Knowledge, is the consumtion of information, and with that consumed knowledge, it can be used to make decisions or actions.
+    
+  ia2.
+      1. The primary key would be the customer ID. This is because the ID uniuqily identifies that row in the table. 
+      2.The two tables would be related via the customer phone number. This is the only thing that is in both tables. 
+      3.The foriegn key would be the customer phone number. The order table would record what phone number is calling it, and the cutomer table would have the customer phone number.
+      
+  ia3.
+      By defining each data type of a field, it defines what kind of data is allowed into it; an example would be if the data must be whole numbers, it won't allow intigers into it. It allows what actions are preformed in it and stops not allowed actions.
+ 
+ Big Data
+  ia.
