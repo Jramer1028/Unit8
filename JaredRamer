@@ -29,3 +29,12 @@ Structured Query Language
  ib.
     Table 1 (Employees and orders) The relationship between the two is that the employees input the order, and what employee input the order is recorded in the order column. The primary key is the customer ID. The forgign key is the employe ID, because it was in both the employee and order column.
     Table 2 (Product and catagories) The Primary key would be the Product ID, and the forign ID would be the catagory ID. The relationship between the two is that the product catagorizes the orders. 
+
+ic.
+
+SQL Injections 
+ ia. Is the most common way that hackers destroy data bases, and are the most common web hacking techniques. The best way to fight this would be to ensure the security of your website. There can be flaws in there that will allow a hacker to inject him/her self into your web, and thats not good. 
+
+ETHICAL AND LEGAL IMPLICATIONS
+Code of Ethics
+  ia. 
