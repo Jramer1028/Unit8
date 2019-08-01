@@ -14,4 +14,18 @@ Relational Data
       By defining each data type of a field, it defines what kind of data is allowed into it; an example would be if the data must be whole numbers, it won't allow intigers into it. It allows what actions are preformed in it and stops not allowed actions.
  
  Big Data
-  ia.
+  ia. 
+    volume- How much space we have to store that data and how big that data is
+    variety- There is different types of data that can be stored
+    velocity- The frequency of the incoming data that needs processed
+    veracity- The trustworthyness of the data/can that data be represented
+
+  ib. Technology that has increased the use of "big data" are the credit cards, cell phones, and computers. All of these inventions increases the amount of data being made or used, so it creates more data the more users there are.
+ 
+Structured Query Language
+  
+ ia.  The purpose of SQL is to allow the user to access and manipulate their data. A Relational database management system (RDBMS) is the basis of SQL.
+ 
+ ib.
+    Table 1 (Employees and orders) The relationship between the two is that the employees input the order, and what employee input the order is recorded in the order column. The primary key is the customer ID. The forgign key is the employe ID, because it was in both the employee and order column.
+    Table 2 (Product and catagories) The Primary key would be the Product ID, and the forign ID would be the catagory ID. The relationship between the two is that the product catagorizes the orders. 
